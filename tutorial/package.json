@@ -1,7 +1,7 @@
 {
   "name": "tutorial",
   "version": "1.0.0",
-  "description": "Tutorial for Chapter 25",
+  "description": "HW 9A Examples",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
